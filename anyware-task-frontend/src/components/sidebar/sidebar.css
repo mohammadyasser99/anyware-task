@@ -1,0 +1,9 @@
+.background{
+    /* background: linear-gradient(to right, #085078, #85d8ce); */
+    /* background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%); */
+    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+    color: white;
+    height: 100%;
+
+}
+
